@@ -3,7 +3,7 @@ link - [(www.trainwithshubham.com)]
 #subheading
 
 babesh mahurkar in feature/docs
-suresh mahaurkar in feature
+suresh mahaurkar in feature/docs
 tum idhar ho feature mein
 Topics 
 1.Linux Fundamental
