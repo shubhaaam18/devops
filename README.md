@@ -12,5 +12,7 @@ Topics
 4.Git Advanced
 5.Docker Fundamentals
 6.Docker ADvanced
-
+7.Kubernetics
+8.Ansible
+9.Observability
 tum log iss samy feature-docs mein ho !!!
